@@ -1,6 +1,11 @@
 name: CI
 
+on: workflow_dispatch
 
+jobs:
+  
+
+    
 
     steps:
     - name: Download Ngrok
